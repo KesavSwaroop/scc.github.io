@@ -1,7 +1,13 @@
-domain: "scc.github.io.git"
-baseurl: /scc/
-url: ""
+# domain: "scc.github.io.git"
+#baseurl: /scc/
+# url: ""
+# permalink: pretty
+# ------------Gemini suggested replacing this with 
+domain: "www.sridaconsultancy.in"
+url: "https://www.sridaconsultancy.in"
+baseurl: ""
 permalink: pretty
+
 title: 'SCC'
 
 logo:
