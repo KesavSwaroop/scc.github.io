@@ -16,7 +16,8 @@ Our doors are always open for exciting projects, as we constantly look forward t
 | Saturday  | Closed           |
 | Saturday  | Closed           |
 
-|Registered Address: | Address for Communication: |
-|--------------------|-------------------|
-|Bhola Nath Nagar    | 24/801, Orchid petals, Sohna Road,
-|                    | Gurgaon - 122018, Haryana| 
+|Registered Address:     | Address for Communication: |
+|------------------------|-------------------|
+|Gali Jain Mandir        | L023 DLF NTH 90, SECTOR 90,
+|Hansi - 125033, Haryana | Gurgaon - 122505, Haryana
+|India                   | India
